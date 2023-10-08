@@ -1,2 +1,2 @@
 # fdsw-github
-Blog relacionado a viajes a traves de todo Chile
+Github - Curso Introducción al Desarrollo Web - Modulo Terminal, Git y Github - DesafioLatam2023
